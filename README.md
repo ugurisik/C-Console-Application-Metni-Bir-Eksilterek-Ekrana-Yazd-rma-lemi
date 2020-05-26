@@ -2,23 +2,8 @@
  
  
  
- yzilimdelisi.com yazınca aşağıdaki gibi çıktı veren program kodları dosyanın içerisindedir. 
+ yazilimdelisi.com yazınca aşağıdaki gibi çıktı veren program kodları dosyanın içerisindedir. 
  
- moc.isiledmilizayazilimdelisi.com
-  oc.isiledmilizayazilimdelisi.co
-   c.isiledmilizayazilimdelisi.c
-    .isiledmilizayazilimdelisi.
-     isiledmilizayazilimdelisi
-      siledmilizayazilimdelis
-       iledmilizayazilimdeli
-        ledmilizayazilimdel
-         edmilizayazilimde
-          dmilizayazilimd
-           milizayazilim
-            ilizayazili
-             lizayazil
-              izayazi
-               zayaz
-                aya
-                 y
+ ![Ekran Alıntısı](https://user-images.githubusercontent.com/54710006/82954582-bacb3d00-9fb5-11ea-9f4c-4bb13545aeb6.PNG)
+
  
